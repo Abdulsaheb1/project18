@@ -6,7 +6,7 @@ This is a web based application developed for musical related based website in i
 
 
 **Project Link** -https://witty-mushroom-0de4cb000.2.azurestaticapps.net/
-**project demo video link** - 
+**project demo video link** - https://youtu.be/-3NO3T5xPv8
 
 ## Azure technologies used for Project
 
