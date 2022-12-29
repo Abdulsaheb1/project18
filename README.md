@@ -1,8 +1,8 @@
 # ✨  Musical ✨
 
-This is a web based application developed for health related based website in india
+This is a web based application developed for musical related based website in india
 
-### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+### This web based musical application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
 **Project Link** -https://witty-mushroom-0de4cb000.2.azurestaticapps.net/
@@ -58,7 +58,7 @@ This is a web based application developed for health related based website in in
 ![Screenshot (845)](https://user-images.githubusercontent.com/118651889/207304723-abb93b73-45a1-4758-b067-5b377c15f56a.png)
 ![Screenshot (846)](https://user-images.githubusercontent.com/118651889/207304749-7dcbe826-a6ed-4bc3-ad80-3b68823eab1f.png)
 
-### chat bot
+### health bot
 ![Screenshot (848)](https://user-images.githubusercontent.com/118651889/207305023-a61f85fb-bc77-4614-abe9-372103405c9f.png)
 
 ## Tech Stack 
@@ -67,4 +67,5 @@ This is a web based application developed for health related based website in in
 - HTML
 - CSS
 - JAVA
+- BOOTSTRAP
 
