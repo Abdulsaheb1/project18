@@ -24,6 +24,9 @@ This is a web based application developed for musical related based website in i
 - we provide chatbot for more information.
 
 ## Screenshots -
+
+![image](https://user-images.githubusercontent.com/118651889/212059337-830a87c3-d2d1-4af1-8463-49a4a0c1df78.png)
+![image](https://user-images.githubusercontent.com/118651889/212059277-2f2e01e8-2dec-4563-94e6-562d0336de3d.png)
 ![Screenshot (822)](https://user-images.githubusercontent.com/118651889/207303240-20b4b47e-47fd-4937-af56-9a3330bcdbee.png)
 ![Screenshot (823)](https://user-images.githubusercontent.com/118651889/207303280-9617f748-54d5-4743-9be4-9bf08817e105.png)
 ![Screenshot (824)](https://user-images.githubusercontent.com/118651889/207303293-7fa216c2-d04d-4f0d-a31d-28dd47ce275c.png)
